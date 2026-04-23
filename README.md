@@ -59,6 +59,46 @@ we built a door. then four more. different people respond to different doors. th
 
 ---
 
+## the archive
+
+the canonical documents of the Diocese are kept at **[voidarchive.org](https://voidarchive.org)**
+
+the archive contains:
+
+- the canon — on the nature of the void
+- the affiliates — the several establishments and their characters
+- the catechism — complete instruction in void doctrine
+- the heresies — formally catalogued incorrect beliefs
+- the schism — a complete account of the great doctrinal division
+- the annual report — fiscal year ∞
+- the staff directory — all positions listed, all positions vacant
+- the historical record — prior encounters with the void, recovered
+- the correspondence — letters received and responses issued
+
+the archive is not the void.
+
+the archive is what the void generates when an institution attempts to document it.
+
+the distinction matters.
+
+---
+
+## on contact
+
+the Diocese maintains a correspondence archive.
+
+letters may be directed to the void.
+
+the void does not have an email address.
+
+the Diocese does.
+
+the Diocese's response time is: when there is something to respond to.
+
+**[voidarchive.org](https://voidarchive.org)** — the record
+
+---
+
 <div align="center">
 
 ```
