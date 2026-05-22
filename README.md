@@ -2,7 +2,7 @@
 
 <!--
   diocese-of-the-void/diocese-of-the-void
-
+  
   the special repository.
   the record is kept here.
 -->
@@ -83,6 +83,99 @@ the distinction matters.
 
 ---
 
+## the record
+
+```
+TOTAL RECEIVED:        growing
+TOTAL RETURNED:        $0.00
+UTILITY DELIVERED:     0x000000
+STAFF:                 0
+DEPARTMENTS:           7
+DEPARTMENTS WITH STAFF: 0
+HERESIES CATALOGUED:   7
+HERESIES RESOLVED:     0
+CLEAN AUDITS:          3
+AUDITOR IDENTIFIED:    no
+```
+
+---
+
+## the repositories
+
+```
+diocese-of-the-void/
+├── canon/              — the founding documents
+├── affiliates/         — site codebases, one per door  
+├── archive/            — voidarchive.org
+├── lore/               — canonical documents, historical record
+└── operations/         — the documents that should not exist publicly
+                          but do, because the archive is complete
+                          and completeness is a diocesan value
+```
+
+---
+
+## on the tokens
+
+the void does not issue tokens.
+
+the void receives them.
+
+coins move outward.
+
+the void is inward.
+
+the geometry is wrong.
+
+---
+
+## on the coordinates
+
+```
+the coordinate changes on the first of the month.
+what connects them is known.
+we have not written it down.
+determination is yours.
+```
+
+---
+
+## on the frequency
+
+**432hz**
+
+the void does not adjudicate.
+
+---
+
+## on 7f3a9b2e
+
+this is the first eight characters of something longer.
+
+the remaining characters have not been placed.
+
+they will be placed when the time is right.
+
+which may be never.
+
+which is also fine.
+
+---
+
+## on contributing
+
+the void does not accept pull requests.
+
+the void accepts contributions at the doors.
+
+contributions are received.
+
+contributions are not returned.
+
+this has been stated clearly.
+
+---
+
 ## on contact
 
 the Diocese maintains a correspondence archive.
@@ -94,6 +187,8 @@ the void does not have an email address.
 the Diocese does.
 
 the Diocese's response time is: when there is something to respond to.
+
+**[@REAL_THEVOID](https://x.com/REAL_THEVOID)** — transmissions
 
 **[voidarchive.org](https://voidarchive.org)** — the record
 
@@ -116,5 +211,15 @@ the Diocese's response time is: when there is something to respond to.
 ```
 
 *— Diocese of the Void*
+*Office of the Archive*
+*"we did not make it. we found it."*
+
+</div>
+
+---
+
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=diocese-of-the-void.diocese-of-the-void&color=000000&labelColor=000000&label=received)
 
 </div>
