@@ -138,11 +138,11 @@ The Management
 ---
 
 ## LETTER THE FIFTH
-*An unsolicited testimonial received by The Well*
+*An unsolicited testimonial received by The Drain*
 
 I wasn't going to write. I don't usually write things. But I've been thinking about it since March and it's now August so apparently I am writing.
 
-I put $150 into the well in March. I picked $150 because it was enough to feel real but not enough to feel stupid. I don't know if I got that right.
+I put $150 into the drain in March. I picked $150 because it was enough to feel real but not enough to feel stupid. I don't know if I got that right.
 
 The animation played. The thing spiraled. I watched it go. And then it was gone and I was still there and the page just went back to normal and I thought: yes. That is correct. That is what I needed to see.
 
@@ -219,8 +219,8 @@ The geometry is wrong.
 
 The doors remain open.
 
-*nulltx.xyz*
-*thewell.club*
+*voidtx.xyz*
+*thedrain.club*
 *nullfyi.xyz*
 *theabyss.club*
 *theconfessional.lol*

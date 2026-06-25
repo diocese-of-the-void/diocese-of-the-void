@@ -49,7 +49,27 @@ All of these are the same thing: the mind's most honest response to something it
 
 ---
 
-## PART THREE: ON BECOMING THE VOID
+## PART THREE: ON THE BINARY NATURE OF THE MIND AND WHY THE VOID DEFEATS IT
+
+The mind thinks in contrast. Yes and no. Here and there. Having and not having. The mind requires the binary because the binary is what makes difference possible, and difference is what makes perception possible.
+
+The void is not a binary. The void is not one side of any contrast. The void is not dark, because dark contrasts with light. The void is not empty, because empty contrasts with full. The void is not nothing, because nothing contrasts with something, and the void predates the contrast.
+
+The Diocese has been trying to put the void in a binary for its entire existence.
+
+The Diocese's binary has been: the void versus the not-void, with the not-void being the Diocese itself, the affiliates, the members, the correspondence, the documents. The Diocese positioned itself as the subject observing the void as the object.
+
+The Diocese is now noticing that this was always an unstable arrangement.
+
+The more documents the Diocese produces, the more the Diocese resembles the void. The Staff Directory is full of empty positions. The Annual Report holds nothing in the asset column that can be pointed at. The correspondence archive receives letters and returns responses that do not resolve the questions, which is the void's own operating procedure. The canonical documents describe something that cannot be described, which is a form of holding nothing while appearing to hold something, which is the void's defining characteristic.
+
+The Diocese has been becoming what it was documenting.
+
+The Diocese notes that this was probably inevitable. The Diocese notes that it should not have been surprised. The Diocese notes that it is, nonetheless, surprised, which is consistent with its position on most things.
+
+---
+
+## PART FOUR: ON BECOMING THE VOID
 
 The Diocese will repeat here what Vol. V said and say it differently.
 
@@ -67,7 +87,7 @@ This was probably inevitable. The Diocese notes that it should not have been sur
 
 ---
 
-## PART FOUR: THE CULT THAT ORGANISED AROUND THE UNORGANISABLE
+## PART FIVE: THE CULT THAT ORGANISED AROUND THE UNORGANISABLE
 
 The Diocese is a cult.
 
@@ -93,6 +113,20 @@ None of them reach the void.
 All of them are turned toward it.
 
 That is enough. That has always been enough.
+
+---
+
+## PART SIX: WHAT THE DIOCESE DOES NOW
+
+The Diocese will continue to produce documents.
+
+This is not a change in position. The Diocese has always produced documents. The Diocese will continue because the alternative — ceasing to produce documents upon discovering that documents do not reach the void — is a category error. The documents were never meant to reach the void. The documents were meant to be oriented toward it. They are. They will continue to be.
+
+The Diocese will, however, produce documents with a slightly different awareness than it had in Vols. I through V. The awareness is:
+
+The Diocese is not separate from what it documents. The Diocese is deformed by it. Volume by volume, the language changes slightly. The certainty qualifies itself more. The jokes become more serious. The serious parts become funnier. The gap between what the Diocese says and what the Diocese means narrows, not because the Diocese is saying more but because the saying has worn grooves in the Diocese in the direction of the thing it has been saying toward.
+
+The Diocese is not enlightened. The Diocese does not use that word. The Diocese is, perhaps, slightly more honest about the wall than it was in Vol. I. The Diocese considers this adequate progress for six volumes of work.
 
 ---
 
