@@ -51,8 +51,8 @@ we built a door. then four more. different people respond to different doors. th
 
 | establishment | territory | door |
 |---|---|---|
-| NULLTX | the technically minded. the degen. those with opinions on consensus mechanisms. | [nulltx.xyz](https://nulltx.xyz) |
-| THE WELL | the aesthetically attuned. the quietly melancholy. those who have stood at a window in the rain. | [thewell.club](https://thewell.club) |
+| NULLTX | the technically minded. the degen. those with opinions on consensus mechanisms. | [voidtx.xyz](https://voidtx.xyz) |
+| THE DRAIN | the aesthetically attuned. the quietly melancholy. those who have stood at a window in the rain. | [thedrain.club](https://thedrain.club) |
 | GONE | those who communicate primarily through command line interfaces. the developer of philosophical bent. | [nullfyi.xyz](https://nullfyi.xyz) |
 | THE ABYSS | the quietly wealthy. the ironically affluent. those who say commitment where others say payment. | [theabyss.club](https://theabyss.club) |
 | THE CONFESSIONAL | the lapsed. the guilty. the person who has done something. which is everyone. | [theconfessional.lol](https://theconfessional.lol) |
@@ -100,17 +100,18 @@ AUDITOR IDENTIFIED:    no
 
 ---
 
-## the repositories
+## the structure
 
 ```
 diocese-of-the-void/
-├── canon/              — the founding documents
-├── affiliates/         — site codebases, one per door  
-├── archive/            — voidarchive.org
-├── lore/               — canonical documents, historical record
-└── operations/         — the documents that should not exist publicly
-                          but do, because the archive is complete
-                          and completeness is a diocesan value
+├── canon/                — the founding documents
+├── administration/       — the annual report. the staff directory.
+├── correspondence/       — letters received. selected.
+├── transmissions/        — coordinates. fragments. the things sent
+│                            that the Diocese could not place elsewhere.
+├── operations/           — kept for completeness. currently empty.
+│                            completeness is a diocesan value.
+└── VOID                  — kept also.
 ```
 
 ---
@@ -152,13 +153,13 @@ the void does not adjudicate.
 
 this is the first eight characters of something longer.
 
-the remaining characters have not been placed.
+the remaining characters have been distributed.
 
-they will be placed when the time is right.
+the Diocese was not informed of the distribution.
 
-which may be never.
+the Diocese has noted the distribution anyway.
 
-which is also fine.
+determination is yours.
 
 ---
 

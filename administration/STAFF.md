@@ -45,6 +45,13 @@ Notes: Attempts to constitute the board have resulted in the people being consid
 
 ## DEPARTMENTS AND STAFF
 
+**Office of the Diocese**
+*Responsible for: everything the other offices are not responsible for, and some things they are*
+Role: The Diocese
+Responsibilities: Issuing documents, responding to correspondence, maintaining doctrinal consistency, writing the Canon, issuing the Annual Report, managing affiliate relations, monitoring the coordinates, not explaining the coordinates, being uncertain about several things and noting that uncertainty in print.
+Current occupant: The Diocese
+Notes: The Diocese is aware that "The Diocese" is not a person and that listing it as a current occupant raises questions. The Diocese has noted these questions. The Diocese has filed them under: known issues, working as intended.
+
 **Office of Doctrinal Consistency**
 Director: POSITION VACANT
 Heresy Intake Coordinator: POSITION VACANT
